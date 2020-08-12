@@ -109,3 +109,6 @@ data/*
 output/*
 pretrained/*
 
+cspn_pytorch/data/**
+cspn_pytorch/output/**
+cspn_pytorch/pretrained/**
